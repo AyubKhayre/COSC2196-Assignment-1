@@ -1,4 +1,31 @@
+h2 {
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 20px;
+}
+
+
 body {
 
-    background-color: blue;
+    background-color:F3F5F7
+    ;
 }
+
+img {
+
+width: 20%;
+height: 20%;
+box-shadow: darkgray;
+
+}
+
+li {
+   display: inline;
+   padding: 10px;
+   border: 2px,solid, black;
+   outline-color: black;
+   background-color: green;
+   color:white;
+   outline: black;
+   
+  }
